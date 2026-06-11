@@ -1,5 +1,5 @@
 # Poyraz Boreas Hancılar
-**Cybersecurity Specialist | Operations & Systems Lead | OT & ICS Security | Founder of [HNCLR](https://github.com/HNCLR) & [XEANX](https://xeanx.com)**
+**Cybersecurity Researcher & Securing Industrial Systems | OT/ICS Security & DFIR | Founder of [HNCLR](https://github.com/HNCLR) & [XEANX](https://xeanx.com)**
 
 I build high-performance systems, orchestrate AI agents, and investigate digital footprints. Currently leading and building the next generation of tech at **Xeanx**.
 
