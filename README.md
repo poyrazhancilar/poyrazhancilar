@@ -3,7 +3,7 @@
 
 I build high-performance systems, orchestrate AI agents, and investigate digital footprints. Currently leading and building the next generation of tech at **Xeanx**.
 
-<img width="1400" height="350" alt="github banner" src="https://github.com/user-attachments/assets/f3dff15e-636d-48df-8abe-9489f88aefb3" />
+<img width="2172" height="724" alt="banner-2" src="https://github.com/user-attachments/assets/8b42baea-e8ea-4faa-ba7d-002cdad5d54b" />
 
 ---
 
